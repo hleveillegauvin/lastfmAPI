@@ -19,10 +19,10 @@
 # set -x
 
 #----INSERT YOUR PEROSNAL INFORMATION HERE------------------------------------------------
-app_name="<INSERT APP NAME HERE>"		# optional
-key=<INSERT KEY HERE> 
-secret=<INSERT SECRET HERE>				# optional
-registered_to="<INSERT USER ID HERE>"	# optional 
+app_name="INSERT APP NAME HERE"		# optional
+key="INSERT KEY HERE" 
+secret="INSERT SECRET HERE"				# optional
+registered_to="INSERT USER ID HERE"	# optional 
 #-----------------------------------------------------------------------------------------
 
 
