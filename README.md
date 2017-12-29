@@ -1,10 +1,6 @@
 # lastfmAPI
-simple interface to interact with the last.fm API
-
-Script to use the lastFM API
-
-Written by: Hubert Léveillé Gauvin
-
+Script to use the lastFM API  
+Written by: Hubert Léveillé Gauvin  
 Date: 27 December 2017, last revised: 29 December 2017
 
 ## Getting Started:
